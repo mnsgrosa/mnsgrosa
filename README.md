@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine learning engineer | mlops | ufpe computer science student
 -----------------------------------------------------------------
 
-Hi, i work at aca.so as mlops im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
+Hi, i work at acaso as mlops. Im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
 
 * 🌍  I'm based in Brazil, Recife, Pe
 * ✉️  You can contact me at [matheusnsampaio@gmail.com](mailto:matheusnsampaio@gmail.com)
