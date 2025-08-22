@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine learning engineer | Data enigneer | mlops | ufpe computer science student
 -----------------------------------------------------------------
 
-Hi, i work at acaso as mlops. Im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
+Hi, i currentyl work at oncase as data engineer. Im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
 
 * 🌍  I'm based in Brazil, Recife, Pe
 * ✉️  You can contact me at [matheusnsampaio@gmail.com](mailto:matheusnsampaio@gmail.com)
-* 🚀  I'm currently working on [Acaso](http://www.aca.so)
+* 🚀  I'm currently working at [Oncase](https://www.oncase.com.br/)
 * 🧠  I'm learning Currently (and will always be) about deep learning and best code practices in big projects
 
 <a href="https://www.github.com/mnsgrosa" target="_blank" rel="noreferrer"><img
