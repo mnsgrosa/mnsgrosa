@@ -8,7 +8,6 @@ Hi, i currentyl work at oncase as data engineer. Im passionate about the math be
 
 * 🌍  I'm based in Brazil, Recife, Pe
 * ✉️  You can contact me at [matheusnsampaio@gmail.com](mailto:matheusnsampaio@gmail.com)
-* 🚀  I'm currently working at [Oncase](https://www.oncase.com.br/)
 * 🧠  I'm learning Currently (and will always be) about deep learning and best code practices in big projects
 
 <a href="https://www.github.com/mnsgrosa" target="_blank" rel="noreferrer"><img
