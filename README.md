@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine learning engineer | Data enigneer | mlops | ufpe computer science student
 -----------------------------------------------------------------
 
-Hi, i currentyl work at oncase as data engineer. Im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
+Hi, Im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
 
 * 🌍  I'm based in Brazil, Recife, Pe
 * ✉️  You can contact me at [matheusnsampaio@gmail.com](mailto:matheusnsampaio@gmail.com)
