@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Rosa
 ====================================================================================================================================
 
-Machine learning engineer | Data engineer | mlops | ufpe computer science student
+AI engineer @ Maggu | Machine learning engineer | mlops | ufpe computer science student
 -----------------------------------------------------------------
 
 Hi, Im passionate about the math behind the ml algorithms and the beauty in writing simple and clean code for complex problems.
 
-* 🌍  I'm based in Brazil, Recife, Pe
+* 🌍  Brazillian ML/AI engineer
 * ✉️  You can contact me at [matheusnsampaio@gmail.com](mailto:matheusnsampaio@gmail.com)
 * 🧠  I'm learning Currently (and will always be) about deep learning and best code practices in big projects
 
